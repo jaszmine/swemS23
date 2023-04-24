@@ -1,4 +1,4 @@
-# swemS23
+# Overview - Team Teal Titans <img src="https://i.imgur.com/8jMAwKK.jpg" alt="tealRibbon" style="float:right;width:42px;height:42px;"/>
 As the 5th most fatal and 2nd most common gynecological malignancy in females, ovarian cancer is responsible for thousands of deaths in the United States every year. Due to the disease's nature, the cancer often presents itself in later stages. Symptoms are often subtle or too broad in the earlier stages, increasing both diagnostic delay and misdiagnosis. That's why we decided to create a histopatholgocial diagnosis/prognosis platform to aid healthcare workers in providing effecitvie and quality care for their patients. 
 
 ### Contents
@@ -50,4 +50,8 @@ As the 5th most fatal and 2nd most common gynecological malignancy in females, o
 <div id="references"></div>
 
 ## References
-* EOCSA: Predicting Prognosis of Epithelial Ovarian Cancer with Whole Slide Histopathological Images
+* [EOCSA: Predicting Prognosis of Epithelial Ovarian Cancer with Whole Slide Histopathological Images](https://www.sciencedirect.com/science/article/pii/S0957417422009484)
+* [NIH SEER Training Modules](https://training.seer.cancer.gov/disease/categories/classification.html)
+* [Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment (PDQ®)](https://www.cancer.gov/types/ovarian/patient/ovarian-epithelial-treatment-pdq#section/all)
+* [NIH Ovarian Cancer Overview Publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7290868/)
+* [SciKit Survival Cox-Models Documents](https://scikit-survival.readthedocs.io/en/stable/user_guide/coxnet.html)
